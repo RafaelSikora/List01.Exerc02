@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Exercicio 02: Faça um Programa que peça um número e então mostre a mensagem O número informado foi [número].
 class Main {
   
   public static void main(String[] args) {
